@@ -15,7 +15,7 @@ Ave. DB per track:
 Stem 1 = -14
 Stem 2 = -9
 Stem 3 = -5 (peak @ -1)
-Stem 4 = -2 (peack @ -1)
+Stem 4 = -2 (peak @ -1)
 
 TEMPO INFO
 BPM = 106
